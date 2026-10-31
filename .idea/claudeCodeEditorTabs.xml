@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClaudeCodeEditorTabs">
+    <option name="activeSessionId" value="7071c998-4101-44b9-b0af-a61e2f4940a6" />
+    <option name="openSessionIds">
+      <list>
+        <option value="766dc064-b41c-4d16-939f-208d04a1096a" />
+        <option value="7071c998-4101-44b9-b0af-a61e2f4940a6" />
+      </list>
+    </option>
+    <option name="sessionPaths">
+      <map>
+        <entry key="7071c998-4101-44b9-b0af-a61e2f4940a6" value="/sessions/5c0c6bd2-7684-4412-ac62-ae6cb24437ed" />
+        <entry key="766dc064-b41c-4d16-939f-208d04a1096a" value="/sessions/5c0c6bd2-7684-4412-ac62-ae6cb24437ed" />
+      </map>
+    </option>
+    <option name="sessionTitles">
+      <map>
+        <entry key="7071c998-4101-44b9-b0af-a61e2f4940a6" value="Streamlit data portfolio app" />
+        <entry key="766dc064-b41c-4d16-939f-208d04a1096a" value="Streamlit data portfolio app" />
+      </map>
+    </option>
+  </component>
+</project>
